@@ -1,6 +1,6 @@
 owner=595653353783033857
-prefix=nasto
-game=by : ! !#4752
+prefix=1
+game=1play
 stayinchannel=true
 songinstatus=false
 token=NTk4NDQzMTUxOTQxNjk3NTM2.XSWt0Q.8GaawY3s4XX4mYxllQpcnoPdR0g
